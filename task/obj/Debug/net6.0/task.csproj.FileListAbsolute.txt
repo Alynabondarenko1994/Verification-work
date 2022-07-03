@@ -1,0 +1,15 @@
+D:\учеба\Verification_work\task\bin\Debug\net6.0\task.exe
+D:\учеба\Verification_work\task\bin\Debug\net6.0\task.deps.json
+D:\учеба\Verification_work\task\bin\Debug\net6.0\task.runtimeconfig.json
+D:\учеба\Verification_work\task\bin\Debug\net6.0\task.dll
+D:\учеба\Verification_work\task\bin\Debug\net6.0\task.pdb
+D:\учеба\Verification_work\task\obj\Debug\net6.0\task.csproj.AssemblyReference.cache
+D:\учеба\Verification_work\task\obj\Debug\net6.0\task.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Verification_work\task\obj\Debug\net6.0\task.AssemblyInfoInputs.cache
+D:\учеба\Verification_work\task\obj\Debug\net6.0\task.AssemblyInfo.cs
+D:\учеба\Verification_work\task\obj\Debug\net6.0\task.csproj.CoreCompileInputs.cache
+D:\учеба\Verification_work\task\obj\Debug\net6.0\task.dll
+D:\учеба\Verification_work\task\obj\Debug\net6.0\refint\task.dll
+D:\учеба\Verification_work\task\obj\Debug\net6.0\task.pdb
+D:\учеба\Verification_work\task\obj\Debug\net6.0\task.genruntimeconfig.cache
+D:\учеба\Verification_work\task\obj\Debug\net6.0\ref\task.dll
